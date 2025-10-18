@@ -1,0 +1,16 @@
+body {
+    background-color: #000000;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #0099ff;
+    text-decoration: none;
+}
+
+hr {
+    color: #1b1b1b; /* quero uma linha dessa cor mas nada acontece */
+    height: 1px;
+    background-color: #1b1b1b;
+    border: none;
+}
